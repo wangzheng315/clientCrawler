@@ -1,0 +1,3 @@
+rootProject.name = 'clientCrawler'
+
+include ':app'
